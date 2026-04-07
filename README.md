@@ -20,9 +20,9 @@
 
 | # | Livrable | Description |
 |---|----------|-------------|
-| L1 | [Note de cadrage](livrables/L1_note_cadrage.docx) | Fiche client, écosystème SI, problématique, gouvernance projet (RACI, risques, budget 500-800K€), roadmap 3 phases |
-| L2 | [Diagnostic data produit](livrables/L2_diagnostic_data_produit.docx) | Audit qualité 5 dimensions, score global 68/100, 5 constats métier chiffrés, causes racines, recommandations |
-| L3 | [Cahier des charges PIM/DAM](livrables/L3_cdc_fonctionnel_pim_dam.docx) | Modèle de données cible, 20 user stories MoSCoW, benchmark Akeneo/Salsify/Contentserv, roadmap déploiement, conduite du changement |
+| L1 | [Note de cadrage](livrables/L1_note_cadrage.pdf) | Fiche client, écosystème SI, problématique, gouvernance projet (RACI, risques, budget 500-800K€), roadmap 3 phases |
+| L2 | [Diagnostic data produit](livrables/L2_diagnostic_data_produit.pdf) | Audit qualité 5 dimensions, score global 68/100, 5 constats métier chiffrés, causes racines, recommandations |
+| L3 | [Cahier des charges PIM/DAM](livrables/L3_cdc_fonctionnel_pim_dam.pdf) | Modèle de données cible, 20 user stories MoSCoW, benchmark Akeneo/Salsify/Contentserv, roadmap déploiement, conduite du changement |
 
 ## Dataset & code
 
