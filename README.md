@@ -29,7 +29,7 @@
 | Fichier | Description |
 |---------|-------------|
 | [dataset_maison_eclat.xlsx](data/dataset_maison_eclat.xlsx) | Dataset synthétique : 1 076 SKUs, 33 colonnes, 83 modèles, 7 types de problèmes de qualité injectés |
-| [generate_dataset.py](code/generate_dataset.py) | Script de génération du dataset (seed fixé, reproductible) |
+| [generate_dataset.py](code/generate_dataset_final.py) | Script de génération du dataset (seed fixé, reproductible) |
 | [audit_dataset.py](code/audit_dataset.py) | Script d'audit : calcul des 5 scores, génération des 5 graphiques |
 
 ## Résultats clés de l'audit
