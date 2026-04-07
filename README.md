@@ -72,4 +72,4 @@ python code/audit_dataset.py
 
 ---
 
-*Projet réalisé dans le cadre d'une préparation de candidature Business Analyst Data Product [Luxe-Retail]. Cas entièrement fictif, construit sur des benchmarks sectoriels réels.*
+
